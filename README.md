@@ -16,6 +16,9 @@ Constantly add papers I need or interested
 - A simple neural network module for relational reasoning(RN) [[paper link](https://arxiv.org/abs/1706.01427)]
 - Recurrent Relational Networks [[paper link](https://arxiv.org/abs/1711.08028)]
 
+### Unclassified
+
+- Variational discriminator bottleneck: improving imitation learning, inverse RL, and GANs by constraining information flow [[paper link](https://arxiv.org/abs/1810.00821)]
 
 ## Message Passing
 
