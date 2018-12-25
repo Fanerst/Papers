@@ -11,7 +11,7 @@ Constantly add papers I need or interested
 - Monge-Ampere Flow [[paper link](https://arxiv.org/abs/1809.10188)]
 - Neural Ordinary Differential Equations [[paper link](https://arxiv.org/abs/1806.07366)]
 
-#### Relational networks
+### Relational networks
 
 - A simple neural network module for relational reasoning(RN) [[paper link](https://arxiv.org/abs/1706.01427)]
 - Recurrent Relational Networks [[paper link](https://arxiv.org/abs/1711.08028)]
@@ -19,6 +19,10 @@ Constantly add papers I need or interested
 ### Unclassified
 
 - Variational discriminator bottleneck: improving imitation learning, inverse RL, and GANs by constraining information flow [[paper link](https://arxiv.org/abs/1810.00821)]
+
+## Thermodynamics and Statistical Mechanics
+
+- Stochastic Thermodynamic Interpretation of Information Geometry [[paper link](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.121.030605), [support material link](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.121.030605/supplemenatry_information.pdf)]
 
 ## Message Passing
 
