@@ -30,10 +30,24 @@ Constantly add papers I need or interested
 
 - Understanding Belief Propagation and its Generalizations [[paper link](http://www.merl.com/publications/TR2001-22)]
 
+## Approximate Inference
+
 ### Expectation propagation
 
-- Expectation Propagation for Approximate Bayesian Inference [[paper link](https://tminka.github.io/papers/ep/minka-ep-uai.pdf)]
+- Expectation Propagation for Approximate Bayesian Inference(EP) [[paper link](https://tminka.github.io/papers/ep/minka-ep-uai.pdf)]
+- Expectation Consistent Approximate Inference(EC) [[paper link](http://www.jmlr.org/papers/volume6/opper05a/opper05a.pdf)]
+- Expectation Consistent Approximate Inference:
+Generalizations and Convergence(GEC) [[paper link](https://arxiv.org/pdf/1602.07795.pdf)]
+- Expectation Propagation for Exponential Families [[paper link](https://infoscience.epfl.ch/record/161464/files/epexpfam.pdf)]
 
 ### Density consistency
 
 - Loop corrections in spin models through density consistency [[paper link](https://arxiv.org/abs/1810.10602)]
+
+
+## Compressed Sensing
+
+- Message-passing algorithms for compressed sensing(AMP) [[paper link](https://www.pnas.org/content/pnas/106/45/18914.full.pdf)]
+- Vector Approximate Message Passing(VAMP) [[paper link](https://arxiv.org/abs/1610.03082)]
+- Compressed Sensing by Shortest-Solution Guided Decimation(SSD) [[paper link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8262619)]
+
