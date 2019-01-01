@@ -51,3 +51,6 @@ Generalizations and Convergence(GEC) [[paper link](https://arxiv.org/pdf/1602.07
 - Vector Approximate Message Passing(VAMP) [[paper link](https://arxiv.org/abs/1610.03082)]
 - Compressed Sensing by Shortest-Solution Guided Decimation(SSD) [[paper link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8262619)]
 
+## Physics and Learning
+
+- Neural Network Renormalization Group [[paperlink](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.121.260601), [support material link](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.121.260601/SM.pdf)]
