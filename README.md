@@ -10,6 +10,7 @@ Constantly add papers I need or interested
 - Normalizing Flow [[paper link](https://arxiv.org/abs/1505.05770)]
 - Monge-Ampere Flow [[paper link](https://arxiv.org/abs/1809.10188)]
 - Neural Ordinary Differential Equations [[paper link](https://arxiv.org/abs/1806.07366)]
+- Density Estimation using Real NVP [[paper link](https://arxiv.org/pdf/1605.08803.pdf)]
 
 ### Relational networks
 
@@ -25,6 +26,7 @@ Constantly add papers I need or interested
 #### Reviews
 - Graph Neural Networks: A Review of Methods and Applications [[paper link](https://arxiv.org/abs/1812.08434)]
 
+
 ## Thermodynamics and Statistical Mechanics
 
 - Stochastic Thermodynamic Interpretation of Information Geometry [[paper link](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.121.030605), [support material link](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.121.030605/supplemenatry_information.pdf)]
@@ -34,6 +36,7 @@ Constantly add papers I need or interested
 ### Belief propagation
 
 - Understanding Belief Propagation and its Generalizations [[paper link](http://www.merl.com/publications/TR2001-22)]
+
 
 ## Approximate Inference
 
@@ -56,6 +59,15 @@ Generalizations and Convergence(GEC) [[paper link](https://arxiv.org/pdf/1602.07
 - Vector Approximate Message Passing(VAMP) [[paper link](https://arxiv.org/abs/1610.03082)]
 - Compressed Sensing by Shortest-Solution Guided Decimation(SSD) [[paper link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8262619)]
 
+
 ## Physics and Learning
 
 - Neural Network Renormalization Group [[paperlink](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.121.260601), [support material link](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.121.260601/SM.pdf)]
+
+
+## Markov Chain Monte Carlo
+
+### Hamiltonian Monte Carlo
+
+- MCMC Using Hamiltonian Dynamics [[paper link](http://www.mcmchandbook.net/HandbookChapter5.pdf)] *to read
+- A Conceptual Introduction to Hamiltonian Monte Carlo [[paper link](https://arxiv.org/abs/1701.02434)] *to read
