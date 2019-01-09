@@ -25,6 +25,7 @@ Constantly add papers I need or interested
 
 #### Reviews
 - Graph Neural Networks: A Review of Methods and Applications [[paper link](https://arxiv.org/abs/1812.08434)]
+- A Comprehensive Survey on Graph Neural Networks [[paper link](https://arxiv.org/pdf/1901.00596v1.pdf)]
 
 
 ## Thermodynamics and Statistical Mechanics
@@ -41,7 +42,9 @@ Constantly add papers I need or interested
 ## Approximate Inference
 
 ### ADATAP
-- Tractable Approximations for Probabilistic Models: The Adaptive Thouless-Anderson-Palmer Mean Field Approach [[paper link](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.86.3695)] *to read
+- Tractable Approximations for Probabilistic Models: The Adaptive Thouless-Anderson-Palmer Mean Field Approach [[paper link](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.86.3695)]
+- Adaptive and self-averaging Thouless-Anderson-Palmer mean-field theory
+for probabilistic modeling [[paper link](https://journals.aps.org/pre/pdf/10.1103/PhysRevE.64.056131)]
 
 ### Expectation propagation
 
@@ -74,6 +77,10 @@ Generalizations and Convergence(GEC) [[paper link](https://arxiv.org/pdf/1602.07
 
 - MCMC Using Hamiltonian Dynamics [[paper link](http://www.mcmchandbook.net/HandbookChapter5.pdf)] *to read
 - A Conceptual Introduction to Hamiltonian Monte Carlo [[paper link](https://arxiv.org/abs/1701.02434)] *to read
+
+## Network Science
+
+- Estimating network structure from unreliable measurements [[paper link](https://journals.aps.org/pre/pdf/10.1103/PhysRevE.98.062321)]
 
 ## Self
 ### Gravity
