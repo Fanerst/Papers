@@ -32,6 +32,11 @@ Constantly add papers I need or interested
 
 - Stochastic Thermodynamic Interpretation of Information Geometry [[paper link](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.121.030605), [support material link](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.121.030605/supplemenatry_information.pdf)]
 
+### Replica symmetry breaking
+- Infinite Number of Order Parameters for Spin-Glasses [[paper link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.43.1754)] *to read
+- Order Parameter for Spin-Glasses [[paper link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.50.1946)] *to read
+- The order parameter for spin glasses: a function on the interval 0-1 [[paper link](http://iopscience.iop.org/article/10.1088/0305-4470/13/3/042/meta)] *to read
+
 ## Message Passing
 
 ### Belief propagation
