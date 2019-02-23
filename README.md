@@ -21,11 +21,14 @@ Constantly add papers I need or interested
 
 - Variational discriminator bottleneck: improving imitation learning, inverse RL, and GANs by constraining information flow [[paper link](https://arxiv.org/abs/1810.00821)]
 
-### Graph Neural Network
+### Graph Neural Networks
 
 #### Reviews
 - Graph Neural Networks: A Review of Methods and Applications [[paper link](https://arxiv.org/abs/1812.08434)]
 - A Comprehensive Survey on Graph Neural Networks [[paper link](https://arxiv.org/pdf/1901.00596v1.pdf)]
+
+#### Graph Convolutional Networks
+- Simplifying Graph Convolutional Networks [[paper link](https://arxiv.org/pdf/1902.07153v1.pdf)]
 
 
 ## Thermodynamics and Statistical Mechanics
