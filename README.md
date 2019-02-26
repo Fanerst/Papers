@@ -1,5 +1,5 @@
 # Paper Repository
-Constantly add papers I need or interested
+Papers of my interest
 
 ## Learning
 
@@ -20,15 +20,20 @@ Constantly add papers I need or interested
 ### Unclassified
 
 - Variational discriminator bottleneck: improving imitation learning, inverse RL, and GANs by constraining information flow [[paper link](https://arxiv.org/abs/1810.00821)]
+- Learning Combinatorial Optimization Algorithms over Graphs [[paper link](https://arxiv.org/abs/1704.01665)]  
+  <font color=gray>
+  **Comments**: pretty interesting, but don't understand the point for now, probably because of lacking basic knownledge about reinforcement learning. </font>
 
 ### Graph Neural Networks
 
 #### Reviews
-- Graph Neural Networks: A Review of Methods and Applications [[paper link](https://arxiv.org/abs/1812.08434)]
-- A Comprehensive Survey on Graph Neural Networks [[paper link](https://arxiv.org/pdf/1901.00596v1.pdf)]
+- Graph Neural Networks: A Review of Methods and Applications [[paper link](https://arxiv.org/abs/1812.08434)] *to read
+- A Comprehensive Survey on Graph Neural Networks [[paper link](https://arxiv.org/pdf/1901.00596v1.pdf)] *to read
+- Relational inductive biases, deep learning, and graph networks [[paper link](https://arxiv.org/abs/1806.01261)] *to read
 
 #### Graph Convolutional Networks
-- Simplifying Graph Convolutional Networks [[paper link](https://arxiv.org/pdf/1902.07153v1.pdf)]
+- Simplifying Graph Convolutional Networks(SGCN) [[paper link](https://arxiv.org/pdf/1902.07153v1.pdf)]
+- HOW POWERFUL ARE GRAPH NEURAL NETWORKS?(GRAPH ISOMORPHISM NETWORK) [[paper link](https://arxiv.org/pdf/1810.00826.pdf)]
 
 
 ## Thermodynamics and Statistical Mechanics
@@ -77,6 +82,8 @@ Generalizations and Convergence(GEC) [[paper link](https://arxiv.org/pdf/1602.07
 ## Physics and Learning
 
 - Neural Network Renormalization Group [[paper link](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.121.260601), [support material link](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.121.260601/SM.pdf)]
+- Uncover the Black Box of Machine Learning Applied to Quantum Problem by an
+Introspective Learning Architecture [[paper link](https://arxiv.org/pdf/1901.11103.pdf)]
 
 
 ## Markov Chain Monte Carlo
@@ -89,6 +96,13 @@ Generalizations and Convergence(GEC) [[paper link](https://arxiv.org/pdf/1602.07
 ## Network Science
 
 - Estimating network structure from unreliable measurements [[paper link](https://journals.aps.org/pre/pdf/10.1103/PhysRevE.98.062321)]
+- Spectral redemption in clustering sparse networks [[paper link](https://www.pnas.org/content/pnas/110/52/20935.full.pdf)]  
+  <font color=gray>
+  **Comments**: using non-backtracking operator in spectral method to do clustering in sparse networks, proving superiority of non-backtracking operator than other structural matrices like adjacency matrix. </font>
+- Asymptotic analysis of the stochastic block model for modular networks and its
+algorithmic applications [[paper link](https://arxiv.org/pdf/1109.3041.pdf)]  
+  <font color=gray>
+  **Comments**: using cavity method to construct belief propagation algorithm to solve stochastic block model, some equations needed to be revisited. </font>
 
 ## Self
 ### Gravity
