@@ -3,7 +3,15 @@ Papers of my interest
 
 ## Learning
 
+### Learning theory
+- Geometrical and Statistical Properties of Systems of Linear Inequalities with Applications in Pattern Recognition [[paper link](https://ieeexplore.ieee.org/document/4038449)]
+
 ### Generative models
+
+#### Autoregressive models
+- Fast Generation for Convolutional Autoregressive Models [[paper link](https://arxiv.org/abs/1704.06001)]  
+   <font color=gray>
+  **Comments**: proposed a way to accelerate autoregreesive models like wave net and pixelcnn, need second thought about whether it can be used into VAN </font>
 
 #### Flow-based networks
 
@@ -12,29 +20,36 @@ Papers of my interest
 - Neural Ordinary Differential Equations [[paper link](https://arxiv.org/abs/1806.07366)]
 - Density Estimation using Real NVP [[paper link](https://arxiv.org/pdf/1605.08803.pdf)]
 
-### Relational networks
-
-- A simple neural network module for relational reasoning(RN) [[paper link](https://arxiv.org/abs/1706.01427)]
-- Recurrent Relational Networks [[paper link](https://arxiv.org/abs/1711.08028)]
-
 ### Unclassified
 
 - Variational discriminator bottleneck: improving imitation learning, inverse RL, and GANs by constraining information flow [[paper link](https://arxiv.org/abs/1810.00821)]
-- Learning Combinatorial Optimization Algorithms over Graphs [[paper link](https://arxiv.org/abs/1704.01665)]  
-  <font color=gray>
-  **Comments**: pretty interesting, but don't understand the point for now, probably because of lacking basic knownledge about reinforcement learning. </font>
 
 ### Graph Neural Networks
 
 #### Reviews
-- Graph Neural Networks: A Review of Methods and Applications [[paper link](https://arxiv.org/abs/1812.08434)] *to read
+- Graph Neural Networks: A Review of Methods and Applications [[paper link](https://arxiv.org/abs/1812.08434)]
 - A Comprehensive Survey on Graph Neural Networks [[paper link](https://arxiv.org/pdf/1901.00596v1.pdf)] *to read
 - Relational inductive biases, deep learning, and graph networks [[paper link](https://arxiv.org/abs/1806.01261)] *to read
 
 #### Graph Convolutional Networks
+- Semi-Supervised Classification with Graph Convolutional Networks(GCN) [[paper link](https://arxiv.org/abs/1609.02907)]
 - Simplifying Graph Convolutional Networks(SGCN) [[paper link](https://arxiv.org/pdf/1902.07153v1.pdf)]
 - HOW POWERFUL ARE GRAPH NEURAL NETWORKS?(GRAPH ISOMORPHISM NETWORK) [[paper link](https://arxiv.org/pdf/1810.00826.pdf)]
 
+#### Relational networks
+
+- A simple neural network module for relational reasoning(RN) [[paper link](https://arxiv.org/abs/1706.01427)]
+- Recurrent Relational Networks [[paper link](https://arxiv.org/abs/1711.08028)]
+
+#### GNN for combinatorial optimization problems
+- Learning Combinatorial Optimization Algorithms over Graphs [[paper link](https://arxiv.org/abs/1704.01665)]  
+  <font color=gray>
+  **Comments**: pretty interesting, but don't understand the point for now, probably because of lacking basic knownledge about reinforcement learning. </font>
+
+### Topological interpretation of ML
+- Topology of Learning in Artificial Neural Networks [[paper link](https://arxiv.org/abs/1902.08160)]  
+  <font color=gray> 
+  **Commments**: find a way to visualize evolution of weights through training, hinting that the learning ability comes from branching off of weights </font>
 
 ## Thermodynamics and Statistical Mechanics
 
