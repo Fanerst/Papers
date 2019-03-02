@@ -19,6 +19,8 @@ Papers of my interest
 - Monge-Ampere Flow [[paper link](https://arxiv.org/abs/1809.10188)]
 - Neural Ordinary Differential Equations [[paper link](https://arxiv.org/abs/1806.07366)]
 - Density Estimation using Real NVP [[paper link](https://arxiv.org/pdf/1605.08803.pdf)]
+- Improved Variational Inference with Inverse Autoregressive Flow [[paper link](https://arxiv.org/abs/1606.04934)]
+- Glow: Generative Flow with Invertible 1×1 Convolutions [[paper link](https://arxiv.org/abs/1807.03039)]
 
 ### Unclassified
 
