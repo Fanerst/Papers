@@ -37,6 +37,7 @@ Papers of my interest
 - Semi-Supervised Classification with Graph Convolutional Networks(GCN) [[paper link](https://arxiv.org/abs/1609.02907)]
 - Simplifying Graph Convolutional Networks(SGCN) [[paper link](https://arxiv.org/pdf/1902.07153v1.pdf)]
 - HOW POWERFUL ARE GRAPH NEURAL NETWORKS?(GRAPH ISOMORPHISM NETWORK) [[paper link](https://arxiv.org/pdf/1810.00826.pdf)]
+- GRAPH WAVELET NEURAL NETWORK [[paper link](https://openreview.net/pdf?id=H1ewdiR5tQ)]
 
 #### Relational networks
 
