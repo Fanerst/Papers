@@ -38,6 +38,8 @@ Papers of my interest
 - Simplifying Graph Convolutional Networks(SGCN) [[paper link](https://arxiv.org/pdf/1902.07153v1.pdf)]
 - HOW POWERFUL ARE GRAPH NEURAL NETWORKS?(GRAPH ISOMORPHISM NETWORK) [[paper link](https://arxiv.org/pdf/1810.00826.pdf)]
 - GRAPH WAVELET NEURAL NETWORK [[paper link](https://openreview.net/pdf?id=H1ewdiR5tQ)]
+- Predict then Propagate: Graph Neural Networks meet Personalized PageRank [[paper link](https://arxiv.org/abs/1810.05997)]
+- Graph Attention Networks [[paper link](https://arxiv.org/abs/1710.10903)]
 
 #### Relational networks
 
@@ -48,6 +50,8 @@ Papers of my interest
 - Learning Combinatorial Optimization Algorithms over Graphs [[paper link](https://arxiv.org/abs/1704.01665)]  
   <font color=gray>
   **Comments**: pretty interesting, but don't understand the point for now, probably because of lacking basic knownledge about reinforcement learning. </font>
+
+- Coloring Big Graphs with AlphaGoZero [[paper link](https://arxiv.org/abs/1902.10162)]
 
 ### Topological interpretation of ML
 - Topology of Learning in Artificial Neural Networks [[paper link](https://arxiv.org/abs/1902.08160)]  
