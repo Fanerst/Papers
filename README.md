@@ -53,6 +53,10 @@ Papers of my interest
 
 - Coloring Big Graphs with AlphaGoZero [[paper link](https://arxiv.org/abs/1902.10162)]
 
+#### GNN adversial attack
+- Adversarial Attacks on Neural Networks for Graph Data [[paper link](https://arxiv.org/pdf/1805.07984.pdf)]
+- Can Adversarial Network Attack be Defended? [[paper link](https://arxiv.org/pdf/1903.05994.pdf)]
+
 ### Topological interpretation of ML
 - Topology of Learning in Artificial Neural Networks [[paper link](https://arxiv.org/abs/1902.08160)]  
   <font color=gray> 
