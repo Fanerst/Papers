@@ -33,6 +33,9 @@ Papers of my interest
 - A Comprehensive Survey on Graph Neural Networks [[paper link](https://arxiv.org/pdf/1901.00596v1.pdf)] *to read
 - Relational inductive biases, deep learning, and graph networks [[paper link](https://arxiv.org/abs/1806.01261)] *to read
 
+#### Graph embeddings
+- GraphGAN: Graph Representation Learning with Generative Adversarial Nets [[paper link](https://arxiv.org/abs/1711.08267)]
+
 #### Graph Convolutional Networks
 - Semi-Supervised Classification with Graph Convolutional Networks(GCN) [[paper link](https://arxiv.org/abs/1609.02907)]
 - Simplifying Graph Convolutional Networks(SGCN) [[paper link](https://arxiv.org/pdf/1902.07153v1.pdf)]
