@@ -32,6 +32,7 @@ Papers of my interest
 - Graph Neural Networks: A Review of Methods and Applications [[paper link](https://arxiv.org/abs/1812.08434)]
 - A Comprehensive Survey on Graph Neural Networks [[paper link](https://arxiv.org/pdf/1901.00596v1.pdf)] *to read
 - Relational inductive biases, deep learning, and graph networks [[paper link](https://arxiv.org/abs/1806.01261)] *to read
+- A Tutorial on Network Embeddings [[paper link](https://arxiv.org/abs/1808.02590)]
 
 #### Graph embeddings
 - GraphGAN: Graph Representation Learning with Generative Adversarial Nets [[paper link](https://arxiv.org/abs/1711.08267)]
@@ -64,6 +65,10 @@ Papers of my interest
 - Topology of Learning in Artificial Neural Networks [[paper link](https://arxiv.org/abs/1902.08160)]  
   <font color=gray> 
   **Commments**: find a way to visualize evolution of weights through training, hinting that the learning ability comes from branching off of weights </font>
+  
+### Energy Based Model(EBM)
+- A Tutorial on Energy-Based Learning [[paper link](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf)]
+- Implicit Generation and Generalization in Energy-Based Models [[paper link](https://arxiv.org/abs/1903.08689)]
 
 ## Thermodynamics and Statistical Mechanics
 
@@ -79,6 +84,7 @@ Papers of my interest
 ### Belief propagation
 
 - Understanding Belief Propagation and its Generalizations [[paper link](http://www.merl.com/publications/TR2001-22)]
+- Correctness of belief propagation in Gaussian graphical models of arbitrary topology [[paper link](http://www.merl.com/publications/docs/TR99-33.pdf)]
 
 
 ## Approximate Inference
