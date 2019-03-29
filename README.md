@@ -36,6 +36,7 @@ Papers of my interest
 
 #### Graph embeddings
 - GraphGAN: Graph Representation Learning with Generative Adversarial Nets [[paper link](https://arxiv.org/abs/1711.08267)]
+- Learning Steady-States of Iterative Algorithms over Graphs [[paper link](http://proceedings.mlr.press/v80/dai18a/dai18a.pdf)]
 
 #### Graph Convolutional Networks
 - Semi-Supervised Classification with Graph Convolutional Networks(GCN) [[paper link](https://arxiv.org/abs/1609.02907)]
