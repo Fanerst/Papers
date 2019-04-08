@@ -8,10 +8,16 @@ Papers of my interest
 
 ### Generative models
 
+#### VAEs
+- Auto-Encoding Variational Bayes [[paper link](https://arxiv.org/abs/1312.6114)]
+- Hierarchical Representations with Poincaré Variational Auto-Encoders [[paper link](https://arxiv.org/abs/1901.06033)]
+
 #### Autoregressive models
 - Fast Generation for Convolutional Autoregressive Models [[paper link](https://arxiv.org/abs/1704.06001)]  
    <font color=gray>
   **Comments**: proposed a way to accelerate autoregreesive models like wave net and pixelcnn, need second thought about whether it can be used into VAN </font>
+- Autoregressive Quantile Networks for Generative Modeling [[paper link](https://arxiv.org/abs/1806.05575)]
+- Transformation Autoregressive Networks [[paper link](https://arxiv.org/abs/1801.09819)]
 
 #### Flow-based networks
 
@@ -66,6 +72,12 @@ Papers of my interest
 - Topology of Learning in Artificial Neural Networks [[paper link](https://arxiv.org/abs/1902.08160)]  
   <font color=gray> 
   **Commments**: find a way to visualize evolution of weights through training, hinting that the learning ability comes from branching off of weights </font>
+
+- A Geometric View of Optimal Transportation and Generative Model [[paper link](https://arxiv.org/abs/1710.05488)]
+
+### Optimal transport at ML
+- Latent Space Optimal Transport for Generative Models [[paper link](https://arxiv.org/abs/1809.05964)]
+- Wasserstein Dependency Measure for Representation Learning [[paper link](https://arxiv.org/abs/1903.11780)]
   
 ### Energy Based Model(EBM)
 - A Tutorial on Energy-Based Learning [[paper link](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf)]
