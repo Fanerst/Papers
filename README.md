@@ -13,6 +13,8 @@ Papers of my interest
 - Hierarchical Representations with Poincaré Variational Auto-Encoders [[paper link](https://arxiv.org/abs/1901.06033)]
 
 #### Autoregressive models
+- The Neural Autoregressive Distribution Estimator(NADE) [[paper link](http://proceedings.mlr.press/v15/larochelle11a/larochelle11a.pdf)]
+- MADE: Masked Autoencoder for Distribution Estimation(MADE) [[paper link](https://arxiv.org/abs/1502.03509)]
 - Fast Generation for Convolutional Autoregressive Models [[paper link](https://arxiv.org/abs/1704.06001)]  
    <font color=gray>
   **Comments**: proposed a way to accelerate autoregreesive models like wave net and pixelcnn, need second thought about whether it can be used into VAN </font>
