@@ -157,3 +157,51 @@ algorithmic applications [[paper link](https://arxiv.org/pdf/1109.3041.pdf)]
 ## Self
 ### Gravity
 - The effects of massive graviton on the equilibrium between the black hole and radiation gas in an isolated box [[paper link](https://www.sciencedirect.com/science/article/pii/S0370269317305750)]
+
+
+## To be read
+### PRL
+- Low-Scaling Algorithm for Nudged Elastic Band Calculations Using a Surrogate Machine Learning Model [[paper link](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.122.156001)]
+- Dynamical Computation of the Density of States and Bayes Factors Using Nonequilibrium Importance Sampling [[paper link](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.122.150602)]
+- Random Language Model [[paper link](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.122.128301)]
+
+### Spin Glass and Statistical Physics
+- Materials Physics and Spin Glasses [[paper link](https://arxiv.org/pdf/1903.11414.pdf)]
+- Compressed sensing reconstruction using Expectation Propagation [[paper link](https://arxiv.org/pdf/1904.05777.pdf)]
+
+#### Cavity method and matrix product state
+- A matrix product algorithm for stochastic dynamics on networks, applied to
+non-equilibrium Glauber dynamics [[paper link](https://arxiv.org/pdf/1508.03295.pdf)]
+- The matrix product approximation for the dynamic cavity method [[paper link](https://arxiv.org/pdf/1904.03312.pdf)]
+
+### Physics and Learning
+- Learning a Gauge Symmetry with Neural-Networks [[paper link](https://arxiv.org/pdf/1904.07637.pdf)]
+
+### Machine Learning
+#### Theory
+- Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution [[paper link](https://arxiv.org/pdf/1801.04016.pdf)]
+- A lattice-based approach
+to the expressivity of deep ReLU neural networks [[paper link](https://arxiv.org/pdf/1902.11294v1.pdf)]
+- Deep learning as closure for irreversible processes: A data-driven
+generalized Langevin equation [[paper link](https://arxiv.org/pdf/1903.09562.pdf)]
+- On the Impact of the Activation Function on Deep
+Neural Networks Training [[paper link](https://arxiv.org/pdf/1902.06853v1.pdf)]
+- MEAN-FIELD ANALYSIS OF BATCH NORMALIZATION [[paper link](https://arxiv.org/pdf/1903.02606.pdf)]
+- A MEAN FIELD THEORY OF BATCH NORMALIZATION [[paper link](https://arxiv.org/pdf/1902.08129.pdf)]
+
+#### Generative Model
+- Latent Translation:
+Crossing Modalities by Bridging Generative Models [[paper link](https://arxiv.org/pdf/1902.08261v1.pdf)]
+- GANSYNTH:
+ADVERSARIAL NEURAL AUDIO SYNTHESIS [[paper link](https://arxiv.org/pdf/1902.08710.pdf)]
+- Semi-supervised Learning with Deep Generative Models [[paper link](https://arxiv.org/pdf/1406.5298.pdf)]
+- Diagnosing and Enhancing VAE Models [[paper link](https://arxiv.org/pdf/1903.05789v1.pdf)]
+
+#### Structured Data
+- The Emerging Field of Signal Processing on Graphs [[paper link](https://arxiv.org/pdf/1211.0053v2.pdf)]
+- Discriminative Embeddings of Latent Variable Models
+for Structured Data [[paper link](https://arxiv.org/pdf/1603.05629.pdf)]
+
+#### Others
+- Hyperbolic Neural Networks [[paper link](https://arxiv.org/pdf/1805.09112v2.pdf)]
+- Bayesian Neural Networks at Finite Temperature [[paper link](https://arxiv.org/pdf/1904.04154.pdf)]
