@@ -38,6 +38,12 @@ Papers of my interest
 ### Nerual network and MCMC
 
 - Variational Rejection Sampling [[paper](https://arxiv.org/abs/1804.01712)]
+- Discriminator Rejection Sampling [[paper](https://arxiv.org/abs/1810.06758)]
+- Generative Adversarial Training for Markov Chains [[paper](https://openreview.net/pdf?id=S1L-hCNtl)]
+- A-NICE-MC: Adversarial Training for MCMC [[paper](https://arxiv.org/pdf/1706.07561.pdf)]  
+  <font color=gray>
+  **Comments**: improvement of above paper using HMC and NICE to improve MCMC, could it be used to physical system? 
+  </font>
 
 ### Graph Neural Networks
 
@@ -91,6 +97,17 @@ Papers of my interest
 - A Tutorial on Energy-Based Learning [[paper](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf)]
 - Implicit Generation and Generalization in Energy-Based Models [[paper](https://arxiv.org/abs/1903.08689)]
 
+### Gradient Estimators
+
+- Neural Variational Inference and Learning in Belief Networks[[paper](https://arxiv.org/abs/1402.0030)]
+- Reweighted Wake-Sleep [[paper](https://arxiv.org/abs/1406.2751)]
+- Importance Weighted Autoencoders [[paper](https://arxiv.org/abs/1509.00519)]
+- Variational Inference for Monte Carlo Objectives [[paper](https://arxiv.org/pdf/1602.06725.pdf)]
+
+## Tensor Networks
+
+- Matrix Product Operators for Sequence to Sequence Learning [[paper](https://arxiv.org/abs/1803.10908)]
+
 ## Thermodynamics and Statistical Mechanics
 
 - Stochastic Thermodynamic Interpretation of Information Geometry [[paper](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.121.030605), [support material](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.121.030605/supplemenatry_information.pdf)]
@@ -138,8 +155,7 @@ Generalizations and Convergence(GEC) [[paper](https://arxiv.org/pdf/1602.07795.p
 ## Physics and Learning
 
 - Neural Network Renormalization Group [[paper](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.121.260601), [support material](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.121.260601/SM.pdf)]
-- Uncover the Black Box of Machine Learning Applied to Quantum Problem by an
-Introspective Learning Architecture [[paper](https://arxiv.org/pdf/1901.11103.pdf)]
+- Uncover the Black Box of Machine Learning Applied to Quantum Problem by an Introspective Learning Architecture [[paper](https://arxiv.org/pdf/1901.11103.pdf)]
 
 
 ## Markov Chain Monte Carlo
@@ -148,13 +164,6 @@ Introspective Learning Architecture [[paper](https://arxiv.org/pdf/1901.11103.pd
 
 - MCMC Using Hamiltonian Dynamics [[paper](http://www.mcmchandbook.net/HandbookChapter5.pdf)] *to read
 - A Conceptual Introduction to Hamiltonian Monte Carlo [[paper](https://arxiv.org/abs/1701.02434)] *to read
-
-### MCMC augmented by learning
-- Generative Adversarial Training for Markov Chains [[paper](https://openreview.net/pdf?id=S1L-hCNtl)]
-- A-NICE-MC: Adversarial Training for MCMC [[paper](https://arxiv.org/pdf/1706.07561.pdf)]  
-  <font color=gray>
-  **Comments**: improvement of above paper using HMC and NICE to improve MCMC, could it be used to physical system? 
-  </font>
 
 ## Network Science
 
