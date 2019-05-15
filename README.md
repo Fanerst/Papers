@@ -157,8 +157,14 @@ Generalizations and Convergence(GEC) [[paper](https://arxiv.org/pdf/1602.07795.p
 - Neural Network Renormalization Group [[paper](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.121.260601), [support material](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.121.260601/SM.pdf)]
 - Uncover the Black Box of Machine Learning Applied to Quantum Problem by an Introspective Learning Architecture [[paper](https://arxiv.org/pdf/1901.11103.pdf)]
 
-
 ## Markov Chain Monte Carlo
+
+###MCMC of graphs
+
+- Fastest Mixing Markov Chain on a Graph[[paper](https://web.stanford.edu/~boyd/papers/pdf/fmmc.pdf)]
+
+  <font color=gray>
+  **Comments**: A way to find optimal transfer matrix of MCMC on graphs. How can it been used in our research, and how to improve it. </font>
 
 ### Hamiltonian Monte Carlo
 
@@ -171,9 +177,8 @@ Generalizations and Convergence(GEC) [[paper](https://arxiv.org/pdf/1602.07795.p
 - Spectral redemption in clustering sparse networks [[paper](https://www.pnas.org/content/pnas/110/52/20935.full.pdf)]  
   <font color=gray>
   **Comments**: using non-backtracking operator in spectral method to do clustering in sparse networks, proving superiority of non-backtracking operator than other structural matrices like adjacency matrix. </font>
-- Asymptotic analysis of the stochastic block model for modular networks and its
-algorithmic applications [[paper](https://arxiv.org/pdf/1109.3041.pdf)]  
-  <font color=gray>
+- Asymptotic analysis of the stochastic block model for modular networks and its algorithmic applications [[paper](https://arxiv.org/pdf/1109.3041.pdf)]  
+<font color=gray>
   **Comments**: using cavity method to construct belief propagation algorithm to solve stochastic block model, some equations needed to be revisited. </font>
 
 ## Self
