@@ -39,11 +39,13 @@ Papers of my interest
 
 - Variational Rejection Sampling [[paper](https://arxiv.org/abs/1804.01712)]
 - Discriminator Rejection Sampling [[paper](https://arxiv.org/abs/1810.06758)]
+- Metropolis-Hastings Generative Adversarial Networks [[paper](https://arxiv.org/abs/1811.11357)]
 - Generative Adversarial Training for Markov Chains [[paper](https://openreview.net/pdf?id=S1L-hCNtl)]
 - A-NICE-MC: Adversarial Training for MCMC [[paper](https://arxiv.org/pdf/1706.07561.pdf)]  
   <font color=gray>
   **Comments**: improvement of above paper using HMC and NICE to improve MCMC, could it be used to physical system? 
   </font>
+- Metropolis-Hastings view on variational inference and adversarial training [[paper](https://openreview.net/forum?id=Hkg313AcFX)]
 
 ### Graph Neural Networks
 
@@ -111,6 +113,7 @@ Papers of my interest
 ## Thermodynamics and Statistical Mechanics
 
 - Stochastic Thermodynamic Interpretation of Information Geometry [[paper](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.121.030605), [support material](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.121.030605/supplemenatry_information.pdf)]
+- Kinked Entropy and Discontinuous Microcanonical Spontaneous Symmetry Breaking [[paper](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.122.160601), [support material](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.122.160601/SIforPottsV03.pdf)]
 
 ### Replica symmetry breaking
 - Infinite Number of Order Parameters for Spin-Glasses [[paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.43.1754)] *to read
@@ -195,7 +198,6 @@ Generalizations and Convergence(GEC) [[paper](https://arxiv.org/pdf/1602.07795.p
 ### Spin Glass and Statistical Physics
 - Materials Physics and Spin Glasses [[paper](https://arxiv.org/pdf/1903.11414.pdf)]
 - Compressed sensing reconstruction using Expectation Propagation [[paper](https://arxiv.org/pdf/1904.05777.pdf)]
-- Kinked Entropy and Discontinuous Microcanonical Spontaneous Symmetry Breaking [[paper](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.122.160601), [support material](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.122.160601/SIforPottsV03.pdf)]
 
 #### Cavity method and matrix product state
 - A matrix product algorithm for stochastic dynamics on networks, applied to
